@@ -1,0 +1,5 @@
+fastai==2.1.7
+torch==1.7.1
+torchvision
+Flask
+Flask-Cors
